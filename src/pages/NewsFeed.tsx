@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from "react";
+import { useState, useMemo } from "react";
 import { NewsList } from "../components/NewsList";
 import { KeywordList } from "../components/KeywordList";
 import { SentimentChart } from "../components/SentimentChart";
